@@ -5,5 +5,14 @@ This is a test for a basic unity platformer made by me.
 
 
 ### Controls
-WASD to move
-Left and right arrow to move the camera.
+W - Move Forward
+
+A - Move Left
+
+S - Move Back
+
+D _ Move Right
+
+Left arrow - pan camera left
+
+Right arrow - pan camera right
