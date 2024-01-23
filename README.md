@@ -5,14 +5,14 @@ This is a test for a basic unity platformer made by me.
 
 
 ### Controls
-W - Move Forward
+**W** - Move Forward
 
-A - Move Left
+**A** - Move Left
 
-S - Move Back
+**S** - Move Back
 
-D _ Move Right
+**D** - Move Right
 
-Left arrow - pan camera left
+**Left arrow** - pan camera left
 
-Right arrow - pan camera right
+**Right arrow** - pan camera right
