@@ -4,3 +4,6 @@
 This is a test for a basic unity platformer made by me.
 
 
+### Controls
+WASD to move
+Left and right arrow to move the camera.
